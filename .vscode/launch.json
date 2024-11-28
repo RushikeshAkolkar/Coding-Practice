@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfDigitWithoutOpr",
+            "request": "launch",
+            "mainClass": "SumOfDigitWithoutOpr",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "Runmethod",
             "request": "launch",
             "mainClass": "Runmethod",
