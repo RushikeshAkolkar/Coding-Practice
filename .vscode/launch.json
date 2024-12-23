@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UniqueElements",
+            "request": "launch",
+            "mainClass": "UniqueElements",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "SumOfUniqueNo",
+            "request": "launch",
+            "mainClass": "SumOfUniqueNo",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "HashMap1",
+            "request": "launch",
+            "mainClass": "HashMap1",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "HashMapDemo",
+            "request": "launch",
+            "mainClass": "HashMapDemo",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "HashMap",
+            "request": "launch",
+            "mainClass": "HashMap",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "TralingZero",
+            "request": "launch",
+            "mainClass": "TralingZero",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "SumOfDigitWithoutOpr",
             "request": "launch",
             "mainClass": "SumOfDigitWithoutOpr",
