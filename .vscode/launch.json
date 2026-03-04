@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AC",
+            "request": "launch",
+            "mainClass": "AC",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "FactorialBig",
+            "request": "launch",
+            "mainClass": "FactorialBig",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "FactorialFind",
+            "request": "launch",
+            "mainClass": "FactorialFind",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "UniqueElement1",
+            "request": "launch",
+            "mainClass": "UniqueElement1",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "UniqueElements",
             "request": "launch",
             "mainClass": "UniqueElements",
