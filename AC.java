@@ -22,7 +22,7 @@ public class AC {
         d=c%m;
         if(d==0)
         {
-            System.out.println(c+" Mod "+m+);
+            System.out.println(c+" Mod "+m+" = 0");
         }
         else
         {
