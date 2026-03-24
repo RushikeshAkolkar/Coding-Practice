@@ -26,7 +26,37 @@ o/p-: The Total of c = 270
 i/p-: 10
 o/p-: 270 Mod 10 = 0  
 
+----------------------------------------------------------------------------------------------------------------
+
+How Many Digit You Want
+1234567890
+10*0
+
+9*9
+
+8*8
+
+7*7
+
+6*6
+
+5*5
+
+4*4
+
+3*3
+
+2*2
+
+1*1
+
+The Total of c = 285
+Enter The Value Of Mod
+
+5
+285 Mod 5 = 0
 */
+
 import java.io.*;
 import java.util.*;
 public class AC {
@@ -35,7 +65,7 @@ public class AC {
         int x,b,d,c=0;
         int m,j=10;
         System.out.println("How Many Digit You Want");
-        Scanner sc= new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         x=sc.nextInt();
         while(x>=0&&j>0)
         {
