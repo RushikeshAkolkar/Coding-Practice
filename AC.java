@@ -80,6 +80,36 @@ Enter The Value Of Mod
 
 10
 330 Mod 10 = 0
+----------------------------------------------------------------------------------------------------------
+How Many Digit You Want
+1111011111
+10*1=10
+   +
+9*1=9
+   +
+8*1=8
+   +
+7*1=7
+   +
+6*1=6
+   +
+5*0=0
+   +
+4*1=4
+   +
+3*1=3
+   +
+2*1=2
+   +
+1*1=1
+   +
+0=
+50
+The Total of c = 50   
+Enter The Value Of Mod
+10
+50 Mod 10 = 0
+-------------------------------------------------------------------------------------------------------------
 */
 
 import java.io.*;
@@ -96,12 +126,13 @@ public class AC {
         {
             b=x%10;
             c=c+(j*b);
-            System.out.println(j+"*"+b+"\n");
+            System.out.println(j+"*"+b+"="+j*b+"\t");
             j--;
             x=x/10;
+            System.out.println("   +");
         }
-        System.out.println("The Total of c = "+c);
-        System.out.println("Enter The Value Of Mod\n");
+        System.out.println("0=\n"+c+"\nThe Total of c = "+c);
+        System.out.println("Enter The Value Of Mod");
         m=sc.nextInt();
         d=c%m;
         if(d==0)
