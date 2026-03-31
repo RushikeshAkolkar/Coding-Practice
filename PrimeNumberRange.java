@@ -1,4 +1,11 @@
 // This is logic of Composite Number Not a Prime Number
+//Difference between prime number vs composite number
+/*
+prime number -: the numbers which are divisible by 0 and it self or
+                the numbers which have only 2 factores.
+composite Number -: the Numbers which have more than 2 factores is called as composite Number
+
+*/
 import java.util.Scanner;
 
 public class PrimeNumberRange {

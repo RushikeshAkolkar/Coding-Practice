@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TreeMapDemo",
+            "request": "launch",
+            "mainClass": "TreeMapDemo",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "PrimeNumberRange",
             "request": "launch",
             "mainClass": "PrimeNumberRange",
