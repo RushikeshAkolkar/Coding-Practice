@@ -15,7 +15,7 @@ Perfect Number -: the number is a positive integer equal to the
 i/p -: how many Array Element you want in an Array
 10000       
 o/p -: The Sum Of Perfect Number is upto 10000: 8658
-----------------------it means sum of 6,28,496,8128
+----------------------it means sum of 6,28,496,8128 -----
 */
 import java.util.Scanner;
 
