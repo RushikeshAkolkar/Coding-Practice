@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumberRange",
+            "request": "launch",
+            "mainClass": "PrimeNumberRange",
+            "projectName": "Coding-Practice_370e474e"
+        },
+        {
+            "type": "java",
             "name": "TreeMapDemo",
             "request": "launch",
             "mainClass": "TreeMapDemo",
