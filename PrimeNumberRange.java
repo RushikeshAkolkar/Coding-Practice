@@ -47,6 +47,7 @@ public class PrimeNumberRange {
         for(int i=1;i<=n;i++)
         {
             if (primenumbersum(i)) {
+                System.out.println(i);
                 sum=sum+i;                
             }
         }
