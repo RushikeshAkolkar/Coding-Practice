@@ -20,7 +20,38 @@ negative number -: -1,-2,-3,..... this series is called as negative number
 positive number -:1,2,3,.... this series is called as positive number.
 complex number -: sqrt(3)/2  this type of number is called as complex number
 
-*/
+
+-------------------------------------------------------------------------
+
+
+1. Permutation Formula (Order Matters)
+Permutation is used to calculate the number of arrangements of 
+ objects taken from a set of 
+ distinct objects. 
+Formula:
+
+(n1*n2*n3*....nN)/(n-r)!
+OR
+n!/(n-r)!
+
+Example: To arrange 3 people (from a group of 5 :)
+ ways.
+
+ 
+ 2.2. Combination Formula (Order Doesn't Matter)
+Combination is used to calculate the number of ways to choose 
+ objects from a set of 
+ distinct objects, where the order of selection does not matter. 
+Formula:
+
+
+(n1*2*n3*....*nN)/(1*2*3*4*....*r)*(n-r)!
+
+or
+n!/r!*(n-r)!
+Example: To select a team of 3 people ( from a group of 5 )
+ 
+ */
 
 
 /*
